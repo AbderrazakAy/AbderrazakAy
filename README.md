@@ -24,15 +24,15 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🎓 Bachelor’s student in Software Engineering & Information Systems @ ISIMM
+- 🎓 Bachelor’s student in Software Engineering & Information Systems @ ISIMA
 - 📱 Building cross-platform apps with React Native & Node.js
 - 💻 Strong foundation in HTML, CSS, and JavaScript
 - 🧠 Always pushing the limits of what I can build and learn
-- 💡 Currently crafting **TRAINOVO**, a smart fitness & coaching mobile app
+- 🛠 Currently experimenting with real-time apps, AI integration & clean UI/UX design
 - 🗣 Languages: Arabic (native), English (good), French (intermediate), German (basic)
 
 <h2 align="left">📬 Let's connect:</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-AbderrazakAyeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abderrazakayeb/)](https://www.linkedin.com/in/abderrazakayeb/) 
-[![GitHub Badge](https://img.shields.io/badge/-AbderrazakAyeb-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AbderrazakAyeb)](https://github.com/AbderrazakAyeb)
+[![GitHub Badge](https://img.shields.io/badge/-AbderrazakAyeb-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AbderrazakAy)](https://github.com/AbderrazakAy)
 [![Gmail Badge](https://img.shields.io/badge/-ayebabderrazak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ayebabderrazak@gmail.com)

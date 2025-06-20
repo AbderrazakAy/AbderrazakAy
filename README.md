@@ -34,5 +34,5 @@
 <h2 align="left">📬 Let's connect:</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-AbderrazakAyeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abderrazakayeb/)](https://www.linkedin.com/in/abderrazakayeb/) 
-[![GitHub Badge](https://img.shields.io/badge/-AbderrazakAyeb-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AbderrazakAy)](https://github.com/AbderrazakAy)
+[![GitHub Badge](https://img.shields.io/badge/-AbderrazakAy-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/AbderrazakAy)](https://github.com/AbderrazakAy)
 [![Gmail Badge](https://img.shields.io/badge/-ayebabderrazak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ayebabderrazak@gmail.com)

@@ -6,7 +6,7 @@
   </h2>
 
   <h2>🛠 Technologies and Tools I Use:</h2>
-  <table>
+  <table border="0">
     <tr>
       <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
       <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
@@ -34,15 +34,20 @@
   </p>
 
   <h2>📬 Let's connect:</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/abderrazakayeb/">
-      <img src="https://img.shields.io/badge/-AbderrazakAyeb-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://github.com/AbderrazakAy">
-      <img src="https://img.shields.io/badge/-AbderrazakAy-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
-    </a>
-    <a href="mailto:ayebabderrazak@gmail.com">
-      <img src="https://img.shields.io/badge/-ayebabderrazak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-    </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/abderrazakayeb/"><img src="https://img.shields.io/badge/-AbderrazakAyeb-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;
+    <a href="https://github.com/AbderrazakAy"><img src="https://img.shields.io/badge/-AbderrazakAy-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"></a>&nbsp;
+    <a href="mailto:ayebabderrazak@gmail.com"><img src="https://img.shields.io/badge/-ayebabderrazak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
   </p>
+
+  <h2>📊 GitHub Analytics:</h2>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=AbderrazakAy&hide_border=true&theme=default" alt="GitHub Streak Stats"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrazakAy&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  </p>
+
 </div>
